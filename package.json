@@ -1,0 +1,23 @@
+{
+  "name": "SyncItControlBuffer",
+  "version": "0.9.0",
+  "description": "Infinite Buffer",
+  "author": "Matthew Forrester <matt@keyboardwritescode.com>",
+  "dependencies": {
+    "jshint": "^2.5.1"
+  },
+  "devDependencies": {
+    "expect.js": "0.2.x",
+    "mocha": "1.8.x"
+  },
+  "engines": {
+    "node": ">0.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/forbesmyester/syncitcontrolbuffer.git"
+  },
+  "scripts": {
+    "test": "mocha test/index.js"
+  }
+}
