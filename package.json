@@ -1,6 +1,6 @@
 {
-  "name": "SyncItControlBuffer",
-  "version": "0.9.0",
+  "name": "syncit-control-buffer",
+  "version": "0.9.1",
   "description": "Infinite Buffer",
   "author": "Matthew Forrester <matt@keyboardwritescode.com>",
   "dependencies": {
